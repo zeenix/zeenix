@@ -12,9 +12,7 @@ years on different levels, from kernel to UI applications. I am eager to learn n
 a quick-learner.
 
 In the last 3 years in my spare time, I created and maintain a Rust crate that makes D-Bus very
-easy. It's a project I'm particularly proud of: 
-
-https://github.com/dbus2/zbus/
+easy, called [zbus](https://github.com/dbus2/zbus/). It's a project I'm particularly proud of. 
 
 ## Top Skills 😎
 
@@ -32,7 +30,7 @@ https://github.com/dbus2/zbus/
   * Development of the Digital Upfitter platform, especially the Rust components.
   * Helping various teams in the Mercedes-Benz group learn Rust and adopting the best practices
     around it. 
-  * Development of a D-Bus broker in Rust: https://github.com/dbus2/busd
+  * Development [busd](https://github.com/dbus2/busd), a D-Bus broker in Rust.
   * Helping shape the future FOSS strategy of the company.
 
 * Senior Software Engineer at Kraken from 2021 to 2022. I worked on their web backend in Rust,
@@ -46,7 +44,7 @@ https://github.com/dbus2/zbus/
 * Pelagicore as Software Architect from 2016 to 2017.
   * Lead the development & maintenance of GENIVI Development Platform from Dec 2016 to May 2017.
   * Worked on PELUX, a Linux-based Open Source platform for In-Vehicle Infotainment systems.
-  * Developed gps-share (https://github.com/zeenix/gps-share), a utility to share your GPS device
+  * Developed [gps-share](https://github.com/zeenix/gps-share), a utility to share your GPS device
     on local network and enable support for standalone GPS devices in Geoclue. This was my first
     real world experience of Rust.
 
@@ -83,9 +81,11 @@ https://github.com/dbus2/zbus/
 * North West Research as Software Developer from 2002 to 2004. It is a small company that develops
   various small consumer and enterprise products, mainly for local markets. Two of my main projects
   were:
-  * An open-source video-wall solution based on GStreamer, called video-whale. The effort was
-    highly appreciated in the open-source community: slashdot.org, The Linux Magazine (March 2003),
-    etc.
+  * An open-source video-wall solution based on GStreamer, called
+    [video-whale](https://gstreamer.freedesktop.org/apps/videowhale.html). The effort was highly
+    appreciated in the open-source community:
+    [slashdot.org](https://hardware.slashdot.org/story/02/11/01/2324207/making-a-videowall),
+    The Linux Magazine (March 2003), etc.
   * ENAS (Ethernet Network Access Server). ENAS was a RADIUS-compatible network access and bandwidth
     control box, that restricted users' access and bandwidth on the network based on their systems'
     MAC and IP addresses. The core of the system was a Linux kernel module.
@@ -101,10 +101,10 @@ https://github.com/dbus2/zbus/
   https://www.rust-lang.org/governance/wgs/wg-async-foundations
 
 * Arranged and co-hosted some of the Rustacean Station Podcast episodes:
-  * https://rustacean-station.org/episode/rainer-stropek/
-  * https://rustacean-station.org/episode/john-nunley/
-  * https://rustacean-station.org/episode/stefan-baumgartner/
-  * https://rustacean-station.org/episode/ivan-cernja/
+  * [CoderDojo and Rust Linz with Rainer Stropek](https://rustacean-station.org/episode/rainer-stropek/)
+  * [smol with John Nunley](https://rustacean-station.org/episode/john-nunley/)
+  * [Shuttle Launchpad with Stefan Baumgartner](https://rustacean-station.org/episode/stefan-baumgartner/)
+  * [Shuttle with Ivan Cernja](https://rustacean-station.org/episode/ivan-cernja/)
 
 ## Education 🎓
 
