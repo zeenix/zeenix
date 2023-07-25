@@ -3,7 +3,7 @@
 * Previous Name: Zeeshan Ali
 * Location: Berlin, Germany. 🇩🇪
 * Nationality: Finnish. 🇫🇮
-* Contact: <firstname><first-letters-of-middle-and-last-name>@gnome.org
+* Contact: `<firstname><first-letters-of-middle-and-last-name>@gnome.org`
 
 ## Summary
 
