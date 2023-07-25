@@ -30,7 +30,7 @@ easy, called [zbus](https://github.com/dbus2/zbus/). It's a project I'm particul
   * Development of the Digital Upfitter platform, especially the Rust components.
   * Helping various teams in the Mercedes-Benz group learn Rust and adopting the best practices
     around it. 
-  * Development [busd](https://github.com/dbus2/busd), a D-Bus broker in Rust.
+  * Development of [busd](https://github.com/dbus2/busd), a D-Bus broker in Rust.
   * Helping shape the future FOSS strategy of the company.
 
 * Senior Software Engineer at Kraken from 2021 to 2022. I worked on their web backend in Rust,
