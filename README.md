@@ -12,7 +12,7 @@ years on different levels, from kernel to UI applications. I am eager to learn n
 a quick-learner.
 
 In the last 3 years in my spare time, I created and maintain a Rust crate that makes D-Bus very
-easy, called [zbus](https://github.com/dbus2/zbus/). It's a project I'm particularly proud of. 
+easy, called [zbus]. It's a project I'm particularly proud of. 
 
 ## Top Skills 😎
 
@@ -30,7 +30,7 @@ easy, called [zbus](https://github.com/dbus2/zbus/). It's a project I'm particul
   * Development of the Digital Upfitter platform, especially the Rust components.
   * Helping various teams in the Mercedes-Benz group learn Rust and adopting the best practices
     around it. 
-  * Development of [busd](https://github.com/dbus2/busd), a D-Bus broker in Rust.
+  * Development of [busd], a D-Bus broker in Rust.
   * Helping shape the future FOSS strategy of the company.
 
 * Senior Software Engineer at Kraken from 2021 to 2022. I worked on their web backend in Rust,
@@ -44,9 +44,8 @@ easy, called [zbus](https://github.com/dbus2/zbus/). It's a project I'm particul
 * Pelagicore as Software Architect from 2016 to 2017.
   * Lead the development & maintenance of GENIVI Development Platform from Dec 2016 to May 2017.
   * Worked on PELUX, a Linux-based Open Source platform for In-Vehicle Infotainment systems.
-  * Developed [gps-share](https://github.com/zeenix/gps-share), a utility to share your GPS device
-    on local network and enable support for standalone GPS devices in Geoclue. This was my first
-    real world experience of Rust.
+  * Developed [gps-share], a utility to share your GPS device on local network and enable support
+    for standalone GPS devices in Geoclue. This was my first real world experience of Rust.
 
 * Red Hat Inc. as Senior Software Engineer from 2011 to 2016 and then from 2019 to 2020:
   * GNOME Boxes, a simple but powerful virtual and remote machine manager for GNOME. Together with
@@ -81,11 +80,9 @@ easy, called [zbus](https://github.com/dbus2/zbus/). It's a project I'm particul
 * North West Research as Software Developer from 2002 to 2004. It is a small company that develops
   various small consumer and enterprise products, mainly for local markets. Two of my main projects
   were:
-  * An open-source video-wall solution based on GStreamer, called
-    [video-whale](https://gstreamer.freedesktop.org/apps/videowhale.html). The effort was highly
-    appreciated in the open-source community:
-    [slashdot.org](https://hardware.slashdot.org/story/02/11/01/2324207/making-a-videowall),
-    The Linux Magazine (March 2003), etc.
+  * An open-source video-wall solution based on GStreamer, called [video-whale]. The effort was
+    highly appreciated in the open-source community [slashdot.org], The Linux Magazine (March 2003),
+    etc.
   * ENAS (Ethernet Network Access Server). ENAS was a RADIUS-compatible network access and bandwidth
     control box, that restricted users' access and bandwidth on the network based on their systems'
     MAC and IP addresses. The core of the system was a Linux kernel module.
@@ -97,13 +94,13 @@ easy, called [zbus](https://github.com/dbus2/zbus/). It's a project I'm particul
   GUADEC (2008, 2009-2014), FOSDEM (2008-2013, 2017, 2018 and 2020), Maemo Summit 2009,
   GStreamer Conference 2010, DLNA summit 2008 and many Rust&Tell Berlin meetups.
 
-* Alumni member of [Rust Async Foundations working group](https://www.rust-lang.org/governance/wgs/wg-async-foundations).
+* Alumni member of [Rust Async Foundations working group][rafwg].
 
 * Arranged and co-hosted some of the Rustacean Station Podcast episodes:
-  * [CoderDojo and Rust Linz with Rainer Stropek](https://rustacean-station.org/episode/rainer-stropek/)
-  * [smol with John Nunley](https://rustacean-station.org/episode/john-nunley/)
-  * [Shuttle Launchpad with Stefan Baumgartner](https://rustacean-station.org/episode/stefan-baumgartner/)
-  * [Shuttle with Ivan Cernja](https://rustacean-station.org/episode/ivan-cernja/)
+  * [CoderDojo and Rust Linz with Rainer Stropek][rainer]
+  * [smol with John Nunley][nunley]
+  * [Shuttle Launchpad with Stefan Baumgartner][baumgartner]
+  * [Shuttle with Ivan Cernja][cerna]
 
 ## Education 🎓
 
@@ -112,3 +109,15 @@ Bachelor of Computer Science from University of Peshawar, Pakistan.
 ## Hobbies 🎸
 
 🚁 🛩 🖖🏼
+
+
+[zbus]: https://github.com/dbus2/zbus/
+[busd]: https://github.com/dbus2/busd
+[gps-share]: https://github.com/zeenix/gps-share
+[video-whale]: https://gstreamer.freedesktop.org/apps/videowhale.html
+[slashdot.org]: https://hardware.slashdot.org/story/02/11/01/2324207/making-a-videowall
+[rafwg]: https://www.rust-lang.org/governance/wgs/wg-async-foundations
+[rainer]: https://rustacean-station.org/episode/rainer-stropek/
+[nunley]: https://rustacean-station.org/episode/john-nunley/
+[baumgartner]: https://rustacean-station.org/episode/stefan-baumgartner/
+[cerna]: https://rustacean-station.org/episode/ivan-cernja/
