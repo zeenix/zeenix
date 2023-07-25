@@ -97,8 +97,7 @@ easy, called [zbus](https://github.com/dbus2/zbus/). It's a project I'm particul
   GUADEC (2008, 2009-2014), FOSDEM (2008-2013, 2017, 2018 and 2020), Maemo Summit 2009,
   GStreamer Conference 2010, DLNA summit 2008 and many Rust&Tell Berlin meetups.
 
-* Alumni member of Rust Async Foundations working group:
-  https://www.rust-lang.org/governance/wgs/wg-async-foundations
+* Alumni member of [Rust Async Foundations working group](https://www.rust-lang.org/governance/wgs/wg-async-foundations).
 
 * Arranged and co-hosted some of the Rustacean Station Podcast episodes:
   * [CoderDojo and Rust Linz with Rainer Stropek](https://rustacean-station.org/episode/rainer-stropek/)
