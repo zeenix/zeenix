@@ -1,0 +1,2 @@
+# Run this and open in the browser and then print to file
+grip --title " " --wide README.md
