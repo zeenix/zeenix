@@ -95,6 +95,8 @@ easy, called [zbus]. It's a project I'm particularly proud of.
   GStreamer Conference 2010, DLNA summit 2008 and many Rust&Tell Berlin meetups.
 
 * Alumni member of [Rust Async Foundations working group][rafwg].
+  
+* Participated as a mentor in Google Summer of Code in 2010, 2012, 2013, 2014, 2015 and 2016.
 
 * Arranged and co-hosted some of the Rustacean Station Podcast episodes:
   * [CoderDojo and Rust Linz with Rainer Stropek][rainer]
