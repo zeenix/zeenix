@@ -118,7 +118,7 @@ Bachelor of Computer Science from University of Peshawar, Pakistan.
 [gps-share]: https://github.com/zeenix/gps-share
 [video-whale]: https://gstreamer.freedesktop.org/apps/videowhale.html
 [slashdot.org]: https://hardware.slashdot.org/story/02/11/01/2324207/making-a-videowall
-[rafwg]: https://www.rust-lang.org/governance/wgs/wg-async-foundations
+[rafwg]: https://www.rust-lang.org/governance/wgs/wg-async
 [rainer]: https://rustacean-station.org/episode/rainer-stropek/
 [nunley]: https://rustacean-station.org/episode/john-nunley/
 [baumgartner]: https://rustacean-station.org/episode/stefan-baumgartner/
