@@ -25,8 +25,8 @@ easy, called [zbus]. It's a project I'm particularly proud of.
 
 ## Career Highlights 🚀
 
-* Rust & FOSS specialist consultant at Mercedes-Benz Vans in the Digital Upfitter project since Dec 
-  2022. My work includes:
+* Rust & FOSS specialist consultant at Mercedes-Benz Vans in the Digital Upfitter project on a 1
+  year contract from Dec 2022 to Dec 2023. My work includes:
   * Development of the Digital Upfitter platform, especially the Rust components.
   * Helping various teams in the Mercedes-Benz group learn Rust and adopting the best practices
     around it. 
