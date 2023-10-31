@@ -18,10 +18,8 @@ easy, called [zbus]. It's a project I'm particularly proud of.
 
 * Rust (5 years)
 * C (17 years)
-* Vala (8 years)
 * Open Source development (22 years)
 * Linux/Unix Programming (22 years)
-* GTK+/GNOME Programming (11 years)
 
 ## Career Highlights 🚀
 
