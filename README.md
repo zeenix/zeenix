@@ -92,6 +92,8 @@ easy, called [zbus]. It's a project I'm particularly proud of.
   GUADEC (2008, 2009-2014), FOSDEM (2008-2013, 2017, 2018 and 2020), Maemo Summit 2009,
   GStreamer Conference 2010, DLNA summit 2008 and many Rust&Tell Berlin meetups.
 
+* Conducted a "Rust for Beginners" employee training workshop at 1000shapes GmbH on Nov 16, 2023.
+
 * Alumni member of [Rust Async Foundations working group][rafwg].
   
 * Participated as a mentor in Google Summer of Code in 2010, 2012, 2013, 2014, 2015 and 2016.
