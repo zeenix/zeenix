@@ -11,8 +11,9 @@ I'm an experienced Rust developer. I have worked on various Linux-based solution
 years on different levels, from kernel to UI applications. I am eager to learn new technologies and 
 a quick-learner.
 
-In the last 3 years in my spare time, I created and maintain a Rust crate that makes D-Bus very
-easy, called [zbus]. It's a project I'm particularly proud of. 
+In the last 5 years in (mostly) my spare time, I created and maintain a Rust crate that makes D-Bus
+very easy, called [zbus]. It has become **the** way to do D-Bus in Rust. It's a project I'm
+particularly proud of. 
 
 ## Top Skills 😎
 
