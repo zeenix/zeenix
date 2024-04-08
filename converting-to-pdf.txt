@@ -1,2 +1,6 @@
 # Run this and open in the browser and then print to file
-grip --title " " --wide README.md
+grip --title " " --wide --user-content README.md
+
+or just use
+
+https://md2pdf.netlify.app/
