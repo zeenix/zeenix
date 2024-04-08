@@ -36,7 +36,7 @@ particularly proud of.
   enabling the transition of various services from PHP to Rust as well as creating new services for 
   new product features.
 
-* Lumeo HQ from 2020 to 2021, where the mission is to create a complete, edge-to-cloud vision
+* Lumeo HQ from 2020 to 2021. Lumeo's mission is to create a complete, edge-to-cloud vision
   platform that accelerates design, deployment and monitoring of vision solutions. Most of the 
   software is written in Rust. I worked on the component running on the edge devices.
 
