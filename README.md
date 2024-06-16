@@ -24,6 +24,11 @@ particularly proud of.
 
 ## Career Highlights 🚀
 
+* Senior Embedded Engineer at [JUCR GmbH] from May 2024. From its charging app to its charging
+  stations, JUCR creates an end-to-end reliable and convenient charging solution. My team is
+  responsible for the charging station part. All the code is written in Rust and involves a mix of
+  Embedded Linux and baremetal development. We rely on frameworks like tokio and embassy.
+
 * Rust & FOSS specialist consultant at Mercedes-Benz Vans in the Digital Upfitter project on a 1
   year contract from Dec 2022 to Dec 2023. My work included:
   * Development of the Digital Upfitter platform, especially the Rust components.
@@ -125,3 +130,4 @@ Bachelor of Computer Science from University of Peshawar, Pakistan.
 [baumgartner]: https://rustacean-station.org/episode/stefan-baumgartner/
 [cerna]: https://rustacean-station.org/episode/ivan-cernja/
 [1000shapes GmbH]: https://1000shapes.com/en/
+[JUCR GmbH]: https://jucr.de/en
