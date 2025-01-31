@@ -17,7 +17,7 @@ particularly proud of.
 
 ## Top Skills 😎
 
-* Rust (5 years)
+* Rust (6 years)
 * C (17 years)
 * Open Source development (22 years)
 * Linux/Unix Programming (22 years)
