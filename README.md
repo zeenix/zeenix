@@ -93,9 +93,9 @@ particularly proud of.
 
 ## Other projects/achievements 🏆
 
-* Presented at various conferences: Rust Linz Feb 2022, foss-north 2019, 2021 and 2023,
-  Oxidize Global 2020, RustFest 2019, All Systems Go (2017-2018), GENIVI AMM 2017,
-  GUADEC (2008, 2009-2014), FOSDEM (2008-2013, 2017, 2018 and 2020), Maemo Summit 2009,
+* Presented at various conferences: Rust Linz Feb 2022, foss-north (2019, 2021 & 2023),
+  Oxidize Global 2020, RustFest 2019, All Systems Go (2017 & 2024), GENIVI AMM 2017,
+  GUADEC (2008, 2009-2014), FOSDEM (2008-2013, 2017, 2018, 2020 & 2025), Maemo Summit 2009,
   GStreamer Conference 2010, DLNA summit 2008 and many Rust&Tell Berlin meetups.
 
 * Conducted a "Rust for Beginners" employee training workshop at [1000shapes GmbH] on Nov 16, 2023.
