@@ -67,14 +67,14 @@ particularly proud of.
   successful open source projects:
   * Created and maintained Rygel, a collection of UPnP/DLNA services for GNOME (Mobile). Rygel is
     readily available in/for all major Linux distributions, was shipped as part of Nokia N9 and
-    currently being deployed in In-Vehicle Infotainment systems.
+    was deployed in In-Vehicle Infotainment systems.
   * Co-developed and co-maintained GUPnP, an elegant, object-oriented open source framework for
     creating UPnP devices and control points. GUPnP was integral part of Nokia N900 and N9.
     Rygel is heavily dependent on GUPnP so all products that use Rygel, also use GUPnP. Raumfeld
     uses GUPnP for their multi-room music solution.
   * MAFW (Media Application Framework) is a framework that makes writing multimedia applications,
     easy. It also abstracts low-level technologies, such as GStreamer and GUPnP. The project was
-    later renamed to Grilo and is still being maintained and used by Linux applications.
+    later renamed to Grilo.
 
 * Aerocar Engineering as Software Developer from 2004 to 2005. Aerocar was mainly a consulting
   company but also worked on a few products of their own. My job was design and implementation of
