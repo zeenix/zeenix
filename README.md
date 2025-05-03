@@ -20,7 +20,9 @@ In the last 5 years in (mostly) my spare time, I created and maintain a Rust cra
 
 ## Career Highlights 🚀
 
-* Senior Embedded Engineer at [JUCR GmbH] from May 2024. From its charging app to its charging stations, JUCR creates an end-to-end reliable and convenient charging solution. My team is responsible for the charging station part. All the code is written in Rust and involves a mix of Embedded Linux and baremetal development. We rely on frameworks like tokio and embassy.
+* Currently working as a freelance Rust Engineer. My main client is [MainMatter], where I'm helping with porting of [RediSearch] from C to Rust. I'm also looking for client and sponsors to fund my work on [zlink], a new Rust [Varlink] library designed to be async and targetting desktops, servers and even microcontrollers.
+
+* Senior Embedded Engineer at JUCR GmbH (now a part of [eze.network GmbH]) from May 2024 to April 2025. My team was responsible for all the software that powered the JUCR charging stations. All the code is written in Rust and involves a mix of Embedded Linux and baremetal development. We relied on frameworks like tokio and embassy.
 
 * Rust & FOSS specialist consultant at Mercedes-Benz Vans in the Digital Upfitter project on a 1 year contract from Dec 2022 to Dec 2023. My work included:
   * Development of the Digital Upfitter platform, especially the Rust components.
@@ -69,6 +71,7 @@ In the last 5 years in (mostly) my spare time, I created and maintain a Rust cra
   * [smol with John Nunley][nunley]
   * [Shuttle Launchpad with Stefan Baumgartner][baumgartner]
   * [Shuttle with Ivan Cernja][cerna]
+  * [Rust with Guillaume Gomez][imperio]
 
 ## Education 🎓
 
@@ -79,6 +82,11 @@ Bachelor of Computer Science from University of Peshawar, Pakistan.
 🚁 🛩 🖖🏼
 
 [zbus]: https://github.com/dbus2/zbus/
+[MainMatter]: https://mainmatter.com/
+[RediSearch]: https://redis.io/docs/stack/search/
+[zlink]: https://github.com/zeenix/zlink
+[Varlink]: https://varlink.org/
+[eze.network GmbH]: https://eze.network/
 [busd]: https://github.com/dbus2/busd
 [gps-share]: https://github.com/zeenix/gps-share
 [video-whale]: https://gstreamer.freedesktop.org/apps/videowhale.html
@@ -89,4 +97,4 @@ Bachelor of Computer Science from University of Peshawar, Pakistan.
 [baumgartner]: https://rustacean-station.org/episode/stefan-baumgartner/
 [cerna]: https://rustacean-station.org/episode/ivan-cernja/
 [1000shapes GmbH]: https://1000shapes.com/en/
-[JUCR GmbH]: https://jucr.de/en
+[imperio]: https://rustacean-station.org/episode/guillaume-gomez/
