@@ -17,6 +17,7 @@ In the last 5 years in (mostly) my spare time, I created and maintain a Rust cra
 * C (17 years)
 * Open Source development (22 years)
 * Linux/Unix Programming (22 years)
+* Embedded Systems development, both bare metal & Linux-based (8 years)
 
 ## Career Highlights 🚀
 
