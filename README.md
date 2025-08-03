@@ -67,7 +67,7 @@ In the last 5 years in (mostly) my spare time, I created and maintain a Rust cra
 
 * Participated as a mentor in Google Summer of Code in 2010, 2012, 2013, 2014, 2015 and 2016.
 
-* Arranged and co-hosted some of the Rustacean Station Podcast episodes:
+* [Interviewed by Rustacean Station Podcast in 2022][zbus-podcast-episode], which lead to me arranging and co-hosting some of the episodes:
   * [CoderDojo and Rust Linz with Rainer Stropek][rainer]
   * [smol with John Nunley][nunley]
   * [Shuttle Launchpad with Stefan Baumgartner][baumgartner]
@@ -94,6 +94,7 @@ Bachelor of Computer Science from University of Peshawar, Pakistan.
 [video-whale]: https://gstreamer.freedesktop.org/apps/videowhale.html
 [slashdot.org]: https://hardware.slashdot.org/story/02/11/01/2324207/making-a-videowall
 [rafwg]: https://www.rust-lang.org/governance/wgs/wg-async
+[zbus-podcast-episode]: https://rustacean-station.org/episode/056-zeeshan-ali/
 [rainer]: https://rustacean-station.org/episode/rainer-stropek/
 [nunley]: https://rustacean-station.org/episode/john-nunley/
 [baumgartner]: https://rustacean-station.org/episode/stefan-baumgartner/
