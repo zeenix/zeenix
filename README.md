@@ -21,7 +21,10 @@ In the last 5 years in (mostly) my spare time, I created and maintain a Rust cra
 
 ## Career Highlights 🚀
 
-* Currently working as a freelance Rust Engineer. My main client is [MainMatter], where I'm helping with porting of [RediSearch] from C to Rust. I'm also looking for client and sponsors to fund my work on [zlink], a new Rust [Varlink] library designed to be async and targetting desktops, servers and even microcontrollers.
+* Currently working as a freelance Rust Engineer with multiple clients:
+  * [Codethink] - Ongoing contract as Consultant Software Engineer
+  * Meta Platforms, Inc. (through [Ferrous systems GmbH][Ferrous]) - is sponsoring twenty days of work on [zlink], a new Rust [Varlink] library designed to be async and targetting desktops, servers and even microcontrollers.
+  * [MainMatter] - Contributed to porting [RediSearch] from C to Rust. The project involved both C and Rust development.
 
 * Senior Embedded Engineer at JUCR GmbH (now a part of [eze.network GmbH]) from May 2024 to April 2025. My team was responsible for all the software that powered the JUCR charging stations. All the code is written in Rust and involves a mix of Embedded Linux and baremetal development. We relied on frameworks like tokio and embassy.
 
@@ -84,6 +87,8 @@ Bachelor of Computer Science from University of Peshawar, Pakistan.
 
 [zbus]: https://github.com/dbus2/zbus/
 [fz25]: https://fosdem.org/2025/schedule/event/fosdem-2025-4104-how-i-optimized-zbus-by-95-/
+[Codethink]: https://codethink.co.uk/
+[Ferrous]: https://ferrous-systems.com/
 [MainMatter]: https://mainmatter.com/
 [RediSearch]: https://redis.io/docs/stack/search/
 [zlink]: https://github.com/zeenix/zlink
