@@ -9,7 +9,7 @@
 
 I'm an experienced Rust developer. I have worked on various Linux-based solutions over the past 22 years on different levels, from kernel to UI applications. I am eager to learn new technologies and a quick-learner.
 
-In the last 5 years in (mostly) my spare time, I created and maintain a Rust crate that makes D-Bus very easy, called [zbus]. It has become **the** way to do D-Bus in Rust. It's a project I'm particularly proud of.
+In the last 5 years in (mostly) my spare time, I created and maintain a Rust crate that makes D-Bus very easy, called [zbus]. Through systematic performance optimization, I achieved a 95% performance improvement ([presented at FOSDEM 2025][fz25]), making it not only the easiest but also one of the fastest ways to do D-Bus in Rust. It's a project I'm particularly proud of.
 
 ## Top Skills 😎
 
@@ -83,6 +83,7 @@ Bachelor of Computer Science from University of Peshawar, Pakistan.
 🚁 🛩 🖖🏼
 
 [zbus]: https://github.com/dbus2/zbus/
+[fz25]: https://fosdem.org/2025/schedule/event/fosdem-2025-4104-how-i-optimized-zbus-by-95-/
 [MainMatter]: https://mainmatter.com/
 [RediSearch]: https://redis.io/docs/stack/search/
 [zlink]: https://github.com/zeenix/zlink
