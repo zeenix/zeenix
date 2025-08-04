@@ -11,6 +11,8 @@ I'm an experienced Rust developer. I have worked on various Linux-based solution
 
 In the last 5 years in (mostly) my spare time, I created and maintain a Rust crate that makes D-Bus very easy, called [zbus]. Through systematic performance optimization, I achieved a 95% performance improvement ([presented at FOSDEM 2025][fz25]), making it not only the easiest but also one of the fastest ways to do D-Bus in Rust. It's a project I'm particularly proud of.
 
+I'm currently also working on [zlink], a new Rust [Varlink] library designed to be async and targetting desktops, servers and even microcontrollers.
+
 ## Top Skills 😎
 
 * Rust (6 years)
@@ -23,7 +25,7 @@ In the last 5 years in (mostly) my spare time, I created and maintain a Rust cra
 
 * Currently working as a freelance Rust Engineer with multiple clients:
   * [Codethink] - Ongoing contract as Consultant Software Engineer
-  * Meta Platforms, Inc. (through [Ferrous systems GmbH][Ferrous]) - is sponsoring twenty days of work on [zlink], a new Rust [Varlink] library designed to be async and targetting desktops, servers and even microcontrollers.
+  * Meta Platforms, Inc. (through [Ferrous systems GmbH][Ferrous]) - is sponsoring twenty days of work on [zlink].
   * [MainMatter] - Contributed to porting [RediSearch] from C to Rust. The project involved both C and Rust development.
 
 * Senior Embedded Engineer at JUCR GmbH (now a part of [eze.network GmbH]) from May 2024 to April 2025. My team was responsible for all the software that powered the JUCR charging stations. All the code is written in Rust and involves a mix of Embedded Linux and baremetal development. We relied on frameworks like tokio and embassy.
