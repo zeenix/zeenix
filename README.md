@@ -66,9 +66,11 @@ I'm currently also working on [zlink], a new Rust [Varlink] library designed to 
 
 * Presented at various conferences: Rust Linz Feb 2022, foss-north (2019, 2021 & 2023), Oxidize Global 2020, RustFest 2019, All Systems Go (2017 & 2024), GENIVI AMM 2017, GUADEC (2008, 2009-2014), FOSDEM (2008-2013, 2017, 2018, 2020 & 2025), Maemo Summit 2009, GStreamer Conference 2010, DLNA summit 2008 and several Rust&Tell Berlin meetups.
 
-* Conducted a "Rust for Beginners" employee training workshop at [1000shapes GmbH] on Nov 16, 2023.
+* Member of [Rust Embedded Libraries team][relt], which is responsible for development and maintenance of embedded device libraries, such as [`heapless`](https://docs.rs/heapless).
 
 * Alumni member of [Rust Async Foundations working group][rafwg].
+
+* Conducted a "Rust for Beginners" employee training workshop at [1000shapes GmbH] on Nov 16, 2023.
 
 * Participated as a mentor in Google Summer of Code in 2010, 2012, 2013, 2014, 2015 and 2016.
 
@@ -101,6 +103,7 @@ Bachelor of Computer Science from University of Peshawar, Pakistan.
 [video-whale]: https://gstreamer.freedesktop.org/apps/videowhale.html
 [slashdot.org]: https://hardware.slashdot.org/story/02/11/01/2324207/making-a-videowall
 [rafwg]: https://www.rust-lang.org/governance/wgs/wg-async
+[relt]: https://www.rust-lang.org/governance/wgs/embedded#team-wg-embedded-libs
 [zbus-podcast-episode]: https://rustacean-station.org/episode/056-zeeshan-ali/
 [rainer]: https://rustacean-station.org/episode/rainer-stropek/
 [nunley]: https://rustacean-station.org/episode/john-nunley/
