@@ -65,7 +65,7 @@ I'm currently also working on [zlink], a new Rust [Varlink] library designed to 
 
 ## Other projects/achievements 🏆
 
-* Presented at various conferences: Rust Linz Feb 2022, foss-north (2019, 2021 & 2023), Oxidize Global 2020, RustFest 2019, All Systems Go (2017 & 2024), GENIVI AMM 2017, GUADEC (2008, 2009-2014), FOSDEM (2008-2013, 2017, 2018, 2020 & 2025), Maemo Summit 2009, GStreamer Conference 2010, DLNA summit 2008 and several Rust&Tell Berlin meetups.
+* Presented at various conferences: [Rust Nation UK 2026][RNUK], Rust Linz Feb 2022, foss-north (2019, 2021 & 2023), Oxidize Global 2020, RustFest 2019, All Systems Go (2017, 2024 & 2025), GENIVI AMM 2017, GUADEC (2008, 2009-2014), FOSDEM (2008-2013, 2017, 2018, 2020 & 2025), Maemo Summit 2009, GStreamer Conference 2010, DLNA summit 2008 and several Rust&Tell Berlin meetups.
 
 * Member of [Rust Embedded Libraries team][relt], which is responsible for development and maintenance of embedded device libraries, such as [`heapless`](https://docs.rs/heapless).
 
@@ -113,3 +113,5 @@ Bachelor of Computer Science from University of Peshawar, Pakistan.
 [cerna]: https://rustacean-station.org/episode/ivan-cernja/
 [1000shapes GmbH]: https://1000shapes.com/en/
 [imperio]: https://rustacean-station.org/episode/guillaume-gomez/
+[RNUK]: https://youtube.com/watch?v=oone-nX-8Eg
+
