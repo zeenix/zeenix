@@ -15,11 +15,11 @@ I'm currently also working on [zlink], a new Rust [Varlink] library designed to 
 
 ## Top Skills 😎
 
-* Rust (6 years)
-* C (17 years)
-* Open Source development (22 years)
-* Linux/Unix Programming (22 years)
-* Embedded Systems development, both bare metal & Linux-based (8 years)
+* Rust (8 years)
+* C (18 years)
+* Open Source development (25 years)
+* Linux/Unix Programming (25 years)
+* Embedded Systems development, both bare metal & Linux-based (10 years)
 
 ## Career Highlights 🚀
 
