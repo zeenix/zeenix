@@ -23,7 +23,8 @@ I'm currently also working on [zlink], a new Rust [Varlink] library designed to 
 
 ## Career Highlights 🚀
 
-* Currently working as a freelance Rust Engineer with multiple clients:
+* Worked as a freelance Rust Engineer with multiple clients from May 2025 to Feb 2026:
+  * [LayerX] - Helped bootstrap the software side of things.
   * [Codethink] - Ongoing contract as Consultant Software Engineer
   * Meta Platforms, Inc. (through [Ferrous systems GmbH][Ferrous]) - is sponsoring twenty days of work on [zlink].
   * [MainMatter] - Contributed to porting [RediSearch] from C to Rust. The project involved both C and Rust development.
@@ -91,6 +92,7 @@ Bachelor of Computer Science from University of Peshawar, Pakistan.
 
 [zbus]: https://github.com/dbus2/zbus/
 [fz25]: https://fosdem.org/2025/schedule/event/fosdem-2025-4104-how-i-optimized-zbus-by-95-/
+[LayerX]: https://layerx-sensors.com/
 [Codethink]: https://codethink.co.uk/
 [Ferrous]: https://ferrous-systems.com/
 [MainMatter]: https://mainmatter.com/
