@@ -9,9 +9,9 @@
 
 I'm an experienced Rust developer. I have worked on various Linux-based solutions over the past 22 years on different levels, from kernel to UI applications. I am eager to learn new technologies and a quick-learner.
 
-In the last 5 years in (mostly) my spare time, I created and maintain a Rust crate that makes D-Bus very easy, called [zbus]. Through systematic performance optimization, I achieved a 95% performance improvement ([presented at FOSDEM 2025][fz25]), making it not only the easiest but also one of the fastest ways to do D-Bus in Rust. It's a project I'm particularly proud of.
+In the last 5 years in (mostly) my spare time, I created and maintain a Rust crate that makes D-Bus very easy, called [zbus]. Through systematic performance optimization, I achieved a 95% performance improvement ([presented at FOSDEM 2025][fz25]), making it not only the easiest but also one of the fastest ways to do D-Bus in Rust. zbus has over 46 million unique downloads on crates.io alone. It's a project I'm particularly proud of.
 
-I'm currently also working on [zlink], a new Rust [Varlink] library designed to be async and targeting desktops and servers.
+I also created and maintain [zlink], a new async-first Rust [Varlink] library targeting desktops and servers.
 
 ## Top Skills 😎
 
@@ -24,9 +24,9 @@ I'm currently also working on [zlink], a new Rust [Varlink] library designed to 
 ## Career Highlights 🚀
 
 * Worked as a freelance Rust Engineer with multiple clients from May 2025 to Feb 2026:
-  * [LayerX] - Helped bootstrap the software side of things.
-  * [Codethink] - Ongoing contract as Consultant Software Engineer
-  * Meta Platforms, Inc. (through [Ferrous systems GmbH][Ferrous]) - is sponsoring twenty days of work on [zlink].
+  * [LayerX] - Helped bootstrap the software side of things. This project involved systems programming in Rust, include bare metal.
+  * [Codethink] - Contracted as a Consultant Software Engineer to help [Endless Access] port their OS to build on top of GNOME OS.
+  * Meta Platforms, Inc. (through [Ferrous systems GmbH][Ferrous]) - sponsored twenty days of work on [zlink].
   * [MainMatter] - Contributed to porting [RediSearch] from C to Rust. The project involved both C and Rust development.
 
 * Senior Embedded Engineer at JUCR GmbH (now a part of [eze.network GmbH]) from May 2024 to April 2025. My team was responsible for all the software that powered the JUCR charging stations. All the code is written in Rust and involves a mix of Embedded Linux and baremetal development. We relied on frameworks like tokio and embassy.
@@ -47,14 +47,14 @@ I'm currently also working on [zlink], a new Rust [Varlink] library designed to 
   * Developed [gps-share], a utility to share your GPS device on local network and enable support for standalone GPS devices in Geoclue. This was my first real world experience of Rust.
 
 * Red Hat Inc. as Senior Software Engineer from 2011 to 2016 and then from 2019 to 2020:
-  * GNOME Boxes, a simple but powerful virtual and remote machine manager for GNOME. Together with my awesome colleagues, I not only implemented the application but also the needed infrastructure and frameworks for it (such as, libosinfo and libvirt-glib).
-  * Geoclue, a D-Bus geoinformation service that makes creating location-aware applications as simple as possible. I single-handedly re-wrote the entire project in 2013.
-  * Maps, a map application for GNOME.
+  * [Boxes], a simple but powerful virtual and remote machine manager for GNOME. Together with my awesome colleagues, I not only implemented the application but also the needed infrastructure and frameworks for it (such as, libosinfo and libvirt-glib).
+  * [Geoclue], a D-Bus geoinformation service that makes creating location-aware applications as simple as possible. I single-handedly re-wrote the entire project in 2013.
+  * [Maps], a map application for GNOME.
   * In my last year at Red Hat, I was part of the team that makes it possible to deploy Openshift clusters on desktop machines for easy testing and development.
 
 * Nokia Corporation as SW Design Engineer from 2006 to 2007 and as Lead-Developer/Architect from 2008 to 2011. At Nokia, I worked at MeeGo (formerly Maemo) group, developing Linux-based mobile products. I worked on development of N800, N810, N900 and N9. I was behind the following successful open source projects:
-  * Created and maintained Rygel, a collection of UPnP/DLNA services for GNOME (Mobile). Rygel is readily available in/for all major Linux distributions, was shipped as part of Nokia N9 and was deployed in In-Vehicle Infotainment systems.
-  * Co-developed and co-maintained GUPnP, an elegant, object-oriented open source framework for creating UPnP devices and control points. GUPnP was integral part of Nokia N900 and N9. Rygel is heavily dependent on GUPnP so all products that use Rygel, also use GUPnP. Raumfeld uses GUPnP for their multi-room music solution.
+  * Created and maintained [Rygel], a collection of UPnP/DLNA services for GNOME (Mobile). Rygel is readily available in/for all major Linux distributions, was shipped as part of Nokia N9 and was deployed in In-Vehicle Infotainment systems.
+  * Co-developed and co-maintained [GUPnP], an elegant, object-oriented open source framework for creating UPnP devices and control points. GUPnP was integral part of Nokia N900 and N9. Rygel is heavily dependent on GUPnP so all products that use Rygel, also use GUPnP. Raumfeld uses GUPnP for their multi-room music solution.
   * MAFW (Media Application Framework) is a framework that makes writing multimedia applications, easy. It also abstracts low-level technologies, such as GStreamer and GUPnP. The project was later renamed to Grilo.
 
 * Aerocar Engineering as Software Developer from 2004 to 2005. Aerocar was mainly a consulting company but also worked on a few products of their own. My job was design and implementation of most parts of their ATM (Automated Teller Machine) project. My work mainly involved development of the user-interface and device drivers for the ATM peripherals. The company no longer exists.
@@ -114,4 +114,9 @@ Bachelor of Computer Science from University of Peshawar, Pakistan.
 [1000shapes GmbH]: https://1000shapes.com/en/
 [imperio]: https://rustacean-station.org/episode/guillaume-gomez/
 [RNUK]: https://youtube.com/watch?v=oone-nX-8Eg
-
+[Endless Access]: https://github.com/endlessm
+[Rygel]: https://gnome.pages.gitlab.gnome.org/rygel/
+[GUPnP]: https://gitlab.gnome.org/GNOME/gupnp
+[Boxes]: https://gnomeboxes.org/
+[Geoclue]: https://gitlab.freedesktop.org/geoclue/geoclue/
+[Maps]: https://gitlab.gnome.org/GNOME/gnome-maps
