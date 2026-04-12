@@ -7,7 +7,7 @@
 
 ## Summary
 
-I'm an experienced Rust developer. I have worked on various Linux-based solutions over the past 22 years on different levels, from kernel to UI applications. I am eager to learn new technologies and a quick-learner.
+I'm an experienced Rust developer. I have worked on various Linux-based solutions over the past 25 years on different levels, from kernel to UI applications. I am eager to learn new technologies and a quick-learner.
 
 In the last 5 years in (mostly) my spare time, I created and maintain a Rust crate that makes D-Bus very easy, called [zbus]. Through systematic performance optimization, I achieved a 95% performance improvement ([presented at FOSDEM 2025][fz25]), making it not only the easiest but also one of the fastest ways to do D-Bus in Rust. zbus has over 46 million unique downloads on crates.io alone. It's a project I'm particularly proud of.
 
