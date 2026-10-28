@@ -22,15 +22,15 @@ I'm a Rust systems engineer and open-source maintainer with 25 years of experien
 
 I created and maintain the following open-source projects:
 
-* **[zbus]** — A Rust D-Bus library with over 50 million downloads. Led the [6.0 redesign][zbus-6] for runtime independence and WASI support; recent work includes major [performance improvements][zbus-parsing].
+* **[zbus]** - A Rust D-Bus library with over 50 million downloads. Led the [6.0 redesign][zbus-6] for runtime independence and WASI support; recent work includes major [performance improvements][zbus-parsing].
 
-* **[busd]** — A D-Bus broker written in Rust. I recently optimized it to [outperform established brokers in signal-broadcast benchmarks][busd-bench].
+* **[busd]** - A D-Bus broker written in Rust. I recently optimized it to [outperform established brokers in signal-broadcast benchmarks][busd-bench].
 
-* **[zruntime]** — A cross-platform, single-threaded async Rust runtime that powers zbus and busd.
+* **[zruntime]** - A cross-platform, single-threaded async Rust runtime that powers zbus and busd.
 
-* **[firmware-controller]** — An actor framework for Embassy-based bare-metal Rust firmware, generating command and notification APIs to reduce boilerplate and decouple components.
+* **[firmware-controller]** - An actor framework for Embassy-based bare-metal Rust firmware, generating command and notification APIs to reduce boilerplate and decouple components.
 
-* **[zlink]** — An async-first Rust [Varlink] library for desktop and server IPC.
+* **[zlink]** - An async-first Rust [Varlink] library for desktop and server IPC.
 
 ## Career Highlights 🚀
 
