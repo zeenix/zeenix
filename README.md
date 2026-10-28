@@ -3,7 +3,7 @@
 * Previous Name: Zeeshan Ali
 * Location: Berlin, Germany. 🇩🇪
 * Nationality: Finnish. 🇫🇮
-* Contact: `zeenix@gmai<guess-this-letter>.com`
+* Contact: `zeenix@gmail.com`
 
 ## Summary
 
