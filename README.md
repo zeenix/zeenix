@@ -7,11 +7,7 @@
 
 ## Summary
 
-I'm an experienced Rust developer. I have worked on various Linux-based solutions over the past 25 years on different levels, from kernel to UI applications. I am eager to learn new technologies and a quick-learner.
-
-In the last 5 years in (mostly) my spare time, I created and maintain a Rust crate that makes D-Bus very easy, called [zbus]. Through systematic performance optimization, I achieved a 95% performance improvement ([presented at FOSDEM 2025][fz25]), making it not only the easiest but also one of the fastest ways to do D-Bus in Rust. zbus has over 50 million unique downloads on crates.io alone. It's a project I'm particularly proud of.
-
-I also created and maintain [zlink], a new async-first Rust [Varlink] library targeting desktops and servers.
+I'm a Rust systems engineer and open-source maintainer with 25 years of experience, from bare-metal firmware and Linux internals to applications. I specialize in async Rust, inter-process communication and performance optimization.
 
 ## Top Skills 😎
 
@@ -20,6 +16,21 @@ I also created and maintain [zlink], a new async-first Rust [Varlink] library ta
 * Open Source development (25 years)
 * Linux/Unix Programming (25 years)
 * Embedded Systems development, both bare metal & Linux-based (10 years)
+* AI-assisted development (Claude Code, Codex): implementation, review, debugging and optimization, backed by tests and benchmarks.
+
+## Selected Open Source Work 🦀
+
+I created and maintain the following open-source projects:
+
+* **[zbus]** — A Rust D-Bus library with over 50 million downloads. Led the [6.0 redesign][zbus-6] for runtime independence and WASI support; recent work includes major [performance improvements][zbus-parsing].
+
+* **[busd]** — A D-Bus broker written in Rust. I recently optimized it to [outperform established brokers in signal-broadcast benchmarks][busd-bench].
+
+* **[zruntime]** — A cross-platform, single-threaded async Rust runtime that powers zbus and busd.
+
+* **[firmware-controller]** — An actor framework for Embassy-based bare-metal Rust firmware, generating command and notification APIs to reduce boilerplate and decouple components.
+
+* **[zlink]** — An async-first Rust [Varlink] library for desktop and server IPC.
 
 ## Career Highlights 🚀
 
@@ -28,6 +39,7 @@ I also created and maintain [zlink], a new async-first Rust [Varlink] library ta
   * [Codethink] - Contracted as a Consultant Software Engineer to help [Endless Access] port their OS to build on top of GNOME OS.
   * Meta Platforms, Inc. (through [Ferrous systems GmbH][Ferrous]) - sponsored twenty days of work on [zlink].
   * [MainMatter] - Contributed to porting [RediSearch] from C to Rust. The project involved both C and Rust development.
+  * [Fedimint] & [Fedi] - Designed and developed a [Rust SDK][fedimint-sdk] for Bitcoin wallets with browser and mobile bindings. Improved payment reliability and automated releases.
 
 * Senior Embedded Engineer at JUCR GmbH (now a part of [eze.network GmbH]) from May 2024 to April 2025. My team was responsible for all the software that powered the JUCR charging stations. All the code is written in Rust and involves a mix of Embedded Linux and baremetal development. We relied on frameworks like tokio and embassy.
 
@@ -90,17 +102,16 @@ Bachelor of Computer Science from University of Peshawar, Pakistan.
 
 🚁 🛩 🖖🏼
 
-[zbus]: https://github.com/dbus2/zbus/
-[fz25]: https://fosdem.org/2025/schedule/event/fosdem-2025-4104-how-i-optimized-zbus-by-95-/
+[zbus]: https://github.com/z-galaxy/zbus
 [LayerX]: https://layerx-sensors.com/
 [Codethink]: https://codethink.co.uk/
 [Ferrous]: https://ferrous-systems.com/
 [MainMatter]: https://mainmatter.com/
 [RediSearch]: https://redis.io/docs/stack/search/
-[zlink]: https://github.com/zeenix/zlink
+[zlink]: https://github.com/z-galaxy/zlink
 [Varlink]: https://varlink.org/
 [eze.network GmbH]: https://eze.network/
-[busd]: https://github.com/dbus2/busd
+[busd]: https://github.com/z-galaxy/busd
 [gps-share]: https://github.com/zeenix/gps-share
 [video-whale]: https://gstreamer.freedesktop.org/apps/videowhale.html
 [slashdot.org]: https://hardware.slashdot.org/story/02/11/01/2324207/making-a-videowall
@@ -120,3 +131,11 @@ Bachelor of Computer Science from University of Peshawar, Pakistan.
 [Boxes]: https://gnomeboxes.org/
 [Geoclue]: https://gitlab.freedesktop.org/geoclue/geoclue/
 [Maps]: https://gitlab.gnome.org/GNOME/gnome-maps
+[zruntime]: https://github.com/z-galaxy/zruntime
+[zbus-6]: https://github.com/z-galaxy/zbus/releases/tag/zbus-6.0.0
+[zbus-parsing]: https://github.com/z-galaxy/zbus/pull/2081
+[busd-bench]: https://github.com/zeenix/dbus-bench/blob/main/results/2026-10-27-busd-message-checks-0413582-ryzen-7840u.md
+[Fedimint]: https://github.com/fedimint
+[Fedi]: https://www.fedi.xyz/
+[fedimint-sdk]: https://github.com/fedimint/fedimint-sdk
+[firmware-controller]: https://github.com/layerx-world/firmware-controller
