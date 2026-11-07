@@ -35,7 +35,7 @@ I created and maintain the following open-source projects:
 ## Career Highlights 🚀
 
 * Working as a freelance Rust Engineer with multiple clients since May 2025:
-  * [LayerX] - Helped bootstrap the software side of things. This project involved systems programming in Rust, including bare metal.
+  * [LayerX] - Helped bootstrap the software platform, developing embedded software in Rust for Linux and bare-metal targets, with work spanning CAN bus communication, GStreamer and computer vision.
   * [Codethink] - Contracted as a Consultant Software Engineer to help [Endless Access] port their OS to build on top of GNOME OS.
   * Meta Platforms, Inc. (through [Ferrous systems GmbH][Ferrous]) - sponsored twenty days of work on [zlink].
   * [MainMatter] - Contributed to porting [RediSearch] from C to Rust. The project involved both C and Rust development.
