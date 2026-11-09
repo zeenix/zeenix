@@ -22,10 +22,10 @@ I'm a Rust systems engineer and open-source maintainer with 25 years of experien
 
 I created and maintain the following open-source projects:
 
-* **[zbus]** - A Rust D-Bus library with over 50 million downloads. Led the [6.0 redesign][zbus-6] for runtime independence and WASI support; recent work includes major [performance improvements][zbus-parsing].
-* **[busd]** - A D-Bus broker written in Rust. I recently optimized it to [outperform established brokers in signal-broadcast benchmarks][busd-bench].
+* **[zbus]** - A Rust D-Bus library with over 100 million downloads. Recent work includes major [performance improvements][zbus-parsing].
+* **[busd]** - A D-Bus broker written in Rust. I recently optimized it to [outperform established brokers][busd-bench].
 * **[zruntime]** - A cross-platform, single-threaded async Rust runtime that powers zbus and busd.
-* **[firmware-controller]** - An actor framework for Embassy-based bare-metal Rust firmware, generating command and notification APIs to reduce boilerplate and decouple components.
+* **[firmware-controller]** - An actor framework for Embassy-based bare-metal Rust firmware.
 * **[zlink]** - An async-first Rust [Varlink] library for desktop and server IPC.
 
 ## Career Highlights 🚀
@@ -128,7 +128,6 @@ Bachelor of Computer Science from University of Peshawar, Pakistan.
 [Geoclue]: https://gitlab.freedesktop.org/geoclue/geoclue/
 [Maps]: https://gitlab.gnome.org/GNOME/gnome-maps
 [zruntime]: https://github.com/z-galaxy/zruntime
-[zbus-6]: https://github.com/z-galaxy/zbus/releases/tag/zbus-6.0.0
 [zbus-parsing]: https://github.com/z-galaxy/zbus/pull/2081
 [busd-bench]: https://github.com/zeenix/dbus-bench/blob/main/results/2026-10-27-busd-message-checks-0413582-ryzen-7840u.md
 [Fedimint]: https://github.com/fedimint
